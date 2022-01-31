@@ -23,6 +23,8 @@
 <img src="https://github.com/TheCaduceus/Google-Drive-Cloner/blob/main/Img/64.png?raw=true">
 <h4> 7.Also! You can copy data from Shared Drive to My Drive using code as shown in the Image. Just replace "SHARED DRIVE NAME" from Shared Drive name from which you have to copy data and there is no need to do any changes in the destination.</h4>
 <img src="https://github.com/TheCaduceus/Google-Drive-Cloner/blob/main/Img/65.png?raw=true">
+<h4> 8.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)
+  <img src="https://github.com/TheCaduceus/Google-Drive-Cloner/blob/main/Img/66.png?raw=true">
 <h5> <b><i>❗NOTE: You can Copy Data of Max 750GB/Day because of limit set by Google! However you can use multiple accounts to bypass this limit.❗</i></b></h5>
 <h2> 〽️Variables Used</h2>
 <h4> FROM: Replace with the Shared Drive Name from which you have to copy data.</h4>
