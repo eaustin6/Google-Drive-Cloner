@@ -1,12 +1,12 @@
 # Google Drive Data Mover (UI Added!😊)
 **A Simple and User-Friendly Google Collab Notebook with UI to Move or Copy your Data from one place to another.**<br>**Following types of Movement is Supported:**
 
-## 🆕What's New?🆕
+<h2> 🆕What's New?🆕</h2>
 <h4>1.Added Time Out Preventer!😀 (See Step 6)</h4>
 <h4>2.Fixed a Mounting Issue!😅</h4>
 <h4>3.Added More Movement!😉</h4>
 <h4>4.Integrated Speed Tester!😎</h4>
-## ⚙️ How to Use ? 
+<h2> ⚙️ How to Use ?</h2> 
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Google-Drive-Cloner/blob/main/Google%20Drive%20Data%20Mover.ipynb">Open Code</a> </h4>
 <h4> 2.Before you do anything! Connect your Google Account. Click on the Dropdown arrow and select "MOUNT" and click "Play Code" button.</h4>
 <img src="https://github.com/TheCaduceus/Google-Drive-Cloner/blob/main/Img/60.png?raw=true">
