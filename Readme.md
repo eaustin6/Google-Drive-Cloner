@@ -1,8 +1,11 @@
 # Google Drive Data Mover (UI Added!😊)
 **A Simple and User-Friendly Google Collab Notebook with UI to Move or Copy your Data from one place to another.**<br>**Following types of Movement is Supported:**
+**1.Shared Drive to Shared Drive.**
+**2.Shared Drive to My Drive.**
+**3.My Drive to Shared Drive.**
 
 <h2> 🆕What's New?🆕</h2>
-<h4>1.Added Time Out Preventer!😀 (See Step 6)</h4>
+<h4>1.Added Time Out Preventer!😀</h4>
 <h4>2.Fixed a Mounting Issue!😅</h4>
 <h4>3.Added More Movement!😉</h4>
 <h4>4.Integrated Speed Tester!😎</h4>
